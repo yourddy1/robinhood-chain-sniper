@@ -1,0 +1,5 @@
+[project]
+name="robinhood-chain-sniper"
+version="0.1.0"
+dependencies=["websockets","aiohttp"]
+requires-python=">=3.11"
